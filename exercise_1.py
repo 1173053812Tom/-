@@ -51,6 +51,6 @@ for file in file_list:
 for i in jobs:
     i.join()
 
-#hjnkvdfkjgouoglohyvgjxktgsidalftgodiasdfiosyfiasg lkfgsdfglatgf gkjgftasfggfdyf
+
 
 
